@@ -3,7 +3,6 @@ package tw.core;
 import org.junit.Assert;
 import org.junit.Test;
 import tw.core.exception.OutOfRangeAnswerException;
-import tw.core.model.Record;
 
 import java.util.Arrays;
 
